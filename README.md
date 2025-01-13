@@ -62,8 +62,8 @@ We extend our gratitude to our mentors and peers who provided invaluable guidanc
 
 ### Directory Structure
 - **/Reports**: Contains detailed documentation and survey results.
-- **/Designs**: Includes schematics, PCB layouts, and enclosure design files.
-- **/Source Code**: Contains relevant code for battery level indication and control mechanisms.
+- **/Enclosure**: Includes the enclosure design files.
+- **/PCB**: Contains relevant schematics and PCB layouts.
 
 ### How to Use
 1. Refer to the schematic and PCB files to recreate the circuit.
